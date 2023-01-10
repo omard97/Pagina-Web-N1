@@ -145,3 +145,12 @@ h1,h2,h3{
     align-items: flex-end;
 }
 
+@media (min-width: 768px ) {
+    .servicios{
+        display: grid;
+        grid-template-columns: repeat(4,25%) ;
+        
+    }
+}
+
+
