@@ -1,10 +1,10 @@
 :root {
     --blanco: #ffffff;
     --oscuro: #212121;
-    --primario: #ffc107;
-    --secundario: #0097a7;
+    --primario: #f1ba02;
+    --secundario: #006aa7;
     --terciario: #757575;
-    --grisClaro: #dfe9f3
+    --grisClaro: #999a9b;
 }
 
 html {
@@ -227,7 +227,7 @@ align-items: center;
     text-transform: uppercase;
     font-weight: 700;
     margin-bottom: 2rem;
-    color: var(--primario)
+    color: var(--blanco)
 }
 /* Contacto inputs */
 
